@@ -22,6 +22,9 @@ import "ant-design-vue/es/modal/style/index.css";
 import "ant-design-vue/es/popover/style/index.css";
 import "./index.css";
 
+// import { setup } from 'twind'
+
+
 createApp(App)
   .use(Tag)
   .use(Button)

@@ -573,6 +573,7 @@ importers:
       eslint-plugin-prettier: ^3.3.1
       eslint-plugin-vue: ^7.0.0
       prettier: ^2.2.1
+      twind: ^0.16.17
       vue: ^3.0.0
       vue-loader-v16: ^16.0.0-beta.5.4
       vue-router: ^4.0.0-0
